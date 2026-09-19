@@ -55,7 +55,6 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
     align="left"
     alt="Github"
     title="GitHub"
-    color="white"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
@@ -83,7 +82,7 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
     align="left" 
     alt="Framer" 
     title="Framer"
-    color=#FFF
+    color=#FFF;
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" 
