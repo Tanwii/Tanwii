@@ -113,7 +113,7 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="github-readme-stats-one-eta-77.vercel.app/api/top-langs/?username=Tanwii&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Tanwii&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
