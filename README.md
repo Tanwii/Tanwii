@@ -83,7 +83,7 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
     align="left" 
     alt="Framer" 
     title="Framer"
-    color="white"
+    color=#FFF
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" 
