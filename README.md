@@ -60,14 +60,14 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
-<img 
+<!-- <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+/> -->
 
 <img 
     align="left" 
@@ -78,14 +78,23 @@ I'm a **Web Designer & Framer Developer** combining visual aesthetics with solid
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
+<img 
+    align="left" 
+    alt="Framer" 
+    title="Framer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" 
+/>
+
+<!-- <img
     align="left"
     alt="Vercel"
     title="Vercel"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
+/> -->
 <br/>
 <br/>
 
